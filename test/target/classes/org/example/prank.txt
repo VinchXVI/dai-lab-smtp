@@ -1,0 +1,15 @@
+subject:Prank
+this is a prank
+;endOfPrank;
+
+subject:Prank1
+this is a prank1
+;endOfPrank;
+
+subject:Prank2
+this is a prank2
+;endOfPrank;
+
+subject:Prank3
+this is a prank3
+;endOfPrank;
