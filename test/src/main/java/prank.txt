@@ -1,5 +1,6 @@
-subject:Prank
-this is a prank
+subject:Café & éléphant
+Voici du texte avec des accents : é è à ç
+Des émojis : 👋 🎉 
 ;endOfPrank;
 
 subject:Prank1
